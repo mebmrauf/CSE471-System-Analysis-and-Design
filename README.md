@@ -4,12 +4,12 @@ This course provides knowledge of systems analysis and design tools and techniqu
 
 ## Course Objectives
 
-1. Introduce Students with fundamental concepts of System analysis and design
-2. Teach students about structural model of the system
-3. Teach behavioral models of the system
-4. Explain how to make a physical model of the system.
-5. Teach students about managing programming processes and documentation
-6. Help students to build a system using proper and modern tools
+* Understand the fundamental concepts of System Analysis and Design.
+* Learn the structural models of a system.
+* Learn the behavioral models of a system.
+* Develop physical models of a system.
+* Manage programming processes and documentation.
+* Build systems using proper and modern tools.
 
 ## Playlist
 
