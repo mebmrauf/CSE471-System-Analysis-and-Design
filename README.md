@@ -13,6 +13,11 @@ This course provides knowledge of systems analysis and design tools and techniqu
 
 ## Playlist
 
+### AQU
+```
+https://youtube.com/playlist?list=PL-e5hRmSNQ_1msBaB5y1HTuUWnUbFVKPG
+```
+
 ### MTY
 ```
 https://www.youtube.com/playlist?list=PLWEBVLl1ZK5pQj3Alh0SkJpVqXuOIo_h2
