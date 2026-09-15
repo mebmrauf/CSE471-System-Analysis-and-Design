@@ -1,1 +1,44 @@
-Please be very careful because there are quite a lot of mistakes in the slides, especially in the final slides. So, try to focus more on what was covered in class. Also, try to avoid the final practice sheets, as they contain incorrect questions/solutions.
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 128" width="100%" height="128" role="img" aria-label="Warning: Please be very careful because there are quite a lot of mistakes in the slides, especially in the final slides. So, try to focus more on what was covered in class. Also, try to avoid the final practice sheets, as they contain incorrect questions/solutions.">
+  <defs>
+    <style>
+      .card-bg { fill: #fff5f5; stroke: #fca5a5; stroke-width: 1.5; }
+      .accent-bar { fill: #dc2626; }
+      .icon-color { fill: #dc2626; }
+      .warning-title { fill: #dc2626; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 800; letter-spacing: 0.06em; }
+      .warning-text { fill: #dc2626; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 700; line-height: 1.45; }
+      @media (prefers-color-scheme: dark) {
+        .card-bg { fill: #1c0d0f; stroke: #7f1d1d; }
+        .accent-bar { fill: #ef4444; }
+        .icon-color { fill: #ef4444; }
+        .warning-title { fill: #ef4444; }
+        .warning-text { fill: #ff5258; }
+      }
+    </style>
+    <clipPath id="card-clip">
+      <rect x="1" y="1" width="758" height="126" rx="8" />
+    </clipPath>
+  </defs>
+
+  <!-- Background Card -->
+  <rect class="card-bg" x="1" y="1" width="758" height="126" rx="8" fill="#fff5f5" stroke="#fca5a5" stroke-width="1.5" />
+
+  <!-- Left Accent Bar -->
+  <g clip-path="url(#card-clip)">
+    <rect class="accent-bar" x="1" y="1" width="5" height="126" fill="#dc2626" />
+  </g>
+
+  <!-- Warning Triangle Icon -->
+  <g transform="translate(20, 17)">
+    <path class="icon-color" fill="#dc2626" fill-rule="evenodd" clip-rule="evenodd" d="M8.22 1.754a3.25 3.25 0 0 1 5.56 0l7.51 13.008c1.233 2.135-.308 4.738-2.78 4.738H3.49c-2.472 0-4.013-2.603-2.78-4.738L8.22 1.754zm4.043 1.258a1.75 1.75 0 0 0-3.026 0L1.727 16.02a1.75 1.75 0 0 0 1.513 2.48h15.52a1.75 1.75 0 0 0 1.513-2.48L12.263 3.012zM11 7a1 1 0 0 1 2 0v4a1 1 0 1 1-2 0V7zm1 9a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5z" />
+  </g>
+
+  <!-- Header Title -->
+  <text class="warning-title" x="52" y="33" fill="#dc2626">WARNING</text>
+
+  <!-- Warning Content in Bold Red -->
+  <text class="warning-text" x="52" y="58" fill="#dc2626">
+    <tspan x="52" dy="0">Please be very careful because there are quite a lot of mistakes in the slides,</tspan>
+    <tspan x="52" dy="21">especially in the final slides. So, try to focus more on what was covered in class.</tspan>
+    <tspan x="52" dy="21">Also, try to avoid the final practice sheets, as they contain incorrect questions/solutions.</tspan>
+  </text>
+</svg>

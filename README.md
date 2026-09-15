@@ -11,7 +11,7 @@ This course provides knowledge of systems analysis and design tools and techniqu
 * Manage programming processes and documentation.
 * Build systems using proper and modern tools.
 
-![Important Note](./warning.svg)
+![Warning Note](./warning.svg)
 
 ## Playlist
 
