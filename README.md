@@ -27,3 +27,8 @@ https://www.youtube.com/playlist?list=PLWEBVLl1ZK5pQj3Alh0SkJpVqXuOIo_h2
 ```
 https://www.youtube.com/playlist?list=PL9aZtK5kh5Wd9M-4rxicny-ruVi0dTTf3
 ```
+
+### JavaScript Concepts (KZMN)
+```
+https://youtube.com/playlist?list=PLwY6MfTsApmx3hJPoqFkmuWIv_3QTCkDG
+```
